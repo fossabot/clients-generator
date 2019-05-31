@@ -2,6 +2,7 @@
 The code in this repo is used to auto generate the Kaltura client libraries for each supported language.
 
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkaltura%2Fclients-generator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkaltura%2Fclients-generator?ref=badge_shield)
 
 ## Deployment Instructions
 The list of supported clients is [here](config/generator.all.ini)
@@ -46,3 +47,6 @@ All code in this project is released under the [AGPLv3 license](http://www.gnu.o
 
 Copyright © Kaltura Inc. All rights reserved.   
 Authors and contributors: See [GitHub contributors list](https://github.com/kaltura/clients-generator/graphs/contributors).  
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkaltura%2Fclients-generator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkaltura%2Fclients-generator?ref=badge_large)
